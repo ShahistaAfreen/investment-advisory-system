@@ -22,7 +22,7 @@ from utils.validators import validate_user_profile, validate_goals
 
 def main():
     """Main application workflow"""
-    print("🚀 Investment Advisory System - MTech Thesis Project")
+    print("🚀 Investment Advisory System")
     print("=" * 60)
     
     # Load sample user profile
